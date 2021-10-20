@@ -1,0 +1,2 @@
+# -PUSHEN
+Name: Pusheen Symbol: PSN Total Supply: 2,100,000,000 Decimals: 2 CA: 0xA532CC9C5c5a978826D305767a11926616C7B304
